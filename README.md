@@ -17,10 +17,10 @@ This Customer Churn Analysis Dashboard was developed to analyze customer behavio
 
 * Total Customers
 * Churned Customers
-* Churn Rate
 * Active Customers
-* Monthly Charges
-* Customer Tenure
+* Churn Rate
+* Active rate 
+* Total Revenue lost  
 
 ## Dashboard Features
 
@@ -46,7 +46,7 @@ The dashboard enables businesses to monitor churn trends, identify at-risk custo
 
 ## Files Included
 
-* Customer_Churn_Dashboard.pbix
+* Customer_Churn_Dashboard.pbit
 * Customer_Churn_Dataset.xlsx
 * Dashboard_Screenshot.png
 
