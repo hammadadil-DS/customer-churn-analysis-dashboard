@@ -1,4 +1,5 @@
 # customer-churn-analysis-dashboard
+Interactive Power BI dashboard analyzing customer churn patterns, retention trends, customer demographics, and key factors influencing customer attrition to support data-driven decision-making.
 
 
 ## Project Overview
