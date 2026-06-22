@@ -46,9 +46,9 @@ The dashboard enables businesses to monitor churn trends, identify at-risk custo
 
 ## Files Included
 
-* Customer_Churn_Dashboard.pbit
+* Customer_Churn_Dashboard.pbix
 * Customer_Churn_Dataset.xlsx
 * Dashboard_Screenshot.png
 
-![Churn-customer-Dashboard](churn-customer-dashboard.png )
+![Churn-customer-Dashboard](customer-churn-analysis.png)
 
